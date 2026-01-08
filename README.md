@@ -22,6 +22,7 @@ A simple program that encrypts and decrypts text using the **Caesar Cipher** alg
 The Caesar Cipher shifts each letter in the message by a fixed number of positions in the alphabet.
 
 **Example:**
+
 Encryption: hi i am abhishek -> mn n fr fgmnxmjp
 
 Decryption:  mn n fr fgmnxmjp ->  hi i am abhishek
